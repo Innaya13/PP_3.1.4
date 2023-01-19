@@ -5,11 +5,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * Admin
- * логин: "l1@mail.ru"
+ * логин: "s1@mail.ru"
  * пароль: "admin"
  *
  * User
- * логин: "l2@mail.ru"
+ * логин: "s2@mail.ru"
  * пароль: "user"
  */
 
